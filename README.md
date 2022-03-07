@@ -1,1 +1,1 @@
-# MVVMTodo
+# MVVMTodo app
