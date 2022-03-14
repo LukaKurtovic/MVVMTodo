@@ -9,8 +9,6 @@ import java.text.DateFormat
 @Entity
 @Parcelize
 data class Task(
-
-
     val name: String,
     val important: Boolean = false,
     val completed: Boolean = false,
